@@ -1,0 +1,6 @@
+A1-La;Vannak;M;23
+B1-Malyna;Om;M;25
+C1-Monica;Alo;F;23
+A2-Ano;Lame;M;12
+F2-Bok;Many;M;23
+F12-Cat;K;M;29
